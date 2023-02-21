@@ -1,10 +1,10 @@
 # Efood_Assesment
 
-## Libraries for Efood_dashboard.py
+## Libraries for Efood_dashboard.py:
 1)pip install streamlit
 2)pip install pandas
 
-## Libraries for Efood_assesment.ipynb
+## Libraries for Efood_assesment.ipynb:
 1)pip install pandas
 2)pip install numpy
 3)pip install -U scikit-learn
