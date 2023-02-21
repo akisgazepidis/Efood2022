@@ -6,7 +6,6 @@ Created on Mon Feb 20 21:45:22 2023
 """
 
 import pandas as pd
-import plotly.express as px
 import streamlit as st
 pd.set_option('float_format', '{:f}'.format)
 
