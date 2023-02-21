@@ -1,15 +1,23 @@
 # Efood_Assesment
 
-## Libraries for Efood_dashboard.py:
+## Efood_dashboard:
+###Libraries 
 1)pip install streamlit
 2)pip install pandas
 
-## Libraries for Efood_assesment.ipynb:
+###Description
+Visualisation tool using streamlite and python.
+
+## Efood_assesment:
+###Libraries
 1)pip install pandas
 2)pip install numpy
 3)pip install -U scikit-learn
 4)pip install matplotlib
 5pip install tqdm
+
+###Description
+Clustering analysis so as to conduct the customer segmentation.
 
 ## In order to run the Efood_dashboard code please:
 1) git clone the repository to your pc
@@ -24,3 +32,5 @@ Inside you can find:
 3) One .ipynb file with the code for clustering analysis and customer segmentation.
 4) One .pptx file with the presentation created
 5) Two .csv files with efood data
+
+## 
